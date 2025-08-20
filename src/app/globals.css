@@ -2,12 +2,11 @@
 
 @theme {
   --font-urbanist: "Urbanist", ui-sans-serif, system-ui, sans-serif;
+  --font-figtree: "Figtree", ui-sans-serif, system-ui, sans-serif;
 }
 
 .container {
   max-width: 1440px;
   margin: 0 auto;
-  /* keeps it centered */
   padding: 0 16px;
-  /* side padding for smaller screens */
 }

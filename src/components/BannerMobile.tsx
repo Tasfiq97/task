@@ -36,13 +36,13 @@ const BannerMobile = () => {
             </div>
             <div className='pb-[15px] w-[90%] text-center mx-auto'>
                 <p className='text-[#ABABAB] font-figtree text-[12px] leading-[120%] font-[500]'>
-                    By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms
+                By clicking &quot;Get Started&quot;, you agree with Terms and Conditions, Privacy Policy, Subscription Terms
                 </p>
             </div>
             
             <div>
                 <p className='text-[#ABABAB] font-figtree text-[11px] leading-[100%] font-[500]'>
-                    Fametonic 2025 ©All Rights Reserved.
+                Fametonic 2025 &copy;All Rights Reserved.
                 </p>
             </div>
             <div className='mt-[30px] pb-[40px]'>

@@ -42,12 +42,12 @@ const BannerDesktop = () => {
                 </div>
                 <div className='pt-[12px] w-[60%]'>
                     <p className='text-[#ABABAB]  font-figtree text-[12px] leading-[120%] font-[500]'>
-                        By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms
+                        By clicking &quot;Get Started&quot;, you agree with Terms and Conditions, Privacy Policy, Subscription Terms
                     </p>
                 </div>
                 <div>
                     <p className='text-[#ABABAB]  pt-[10px] font-figtree text-[10px] leading-[100%] font-[500]'>
-                        Fametonic 2025 ©All Rights Reserved.
+                        Fametonic 2025 &copy;All Rights Reserved.
                     </p>
                 </div>
             </div>

@@ -36,13 +36,13 @@ const BannerTablet = () => {
             </div>
             <div className='pb-[12px]'>
                 <p className='text-[#ABABAB] font-figtree text-[12px] leading-[140%] font-[500]'>
-                    By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms
+                By clicking &quot;Get Started&quot;, you agree with Terms and Conditions, Privacy Policy, Subscription Terms
                 </p>
             </div>
             
             <div>
                 <p className='text-[#ABABAB] font-figtree text-[11px] leading-[100%] font-[500]'>
-                    Fametonic 2025 ©All Rights Reserved.
+                Fametonic 2025 &copy;All Rights Reserved.
                 </p>
             </div>
             <div className='pt-[20px] pb-[40px]'>
